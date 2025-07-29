@@ -6,8 +6,8 @@ const OPT = {
     "siteName" : "TIins的Blog's",//博客名称
     "siteDescription":"欢迎加入我的博客，这是一个测试版本。",//博客描述
     "keyWords":"cloudflare,KV,workers,blog",//关键字
-    "cacheZoneId":"cc868e8edce4027ad4a735741111111",//清理缓存用 cf区域 ID
-    "cacheToken":"LNxRWH-MPMIGnp8qhyT8FUsjDRN6tdOnmaaaaaaa",//清理缓存用 cf API token
+    "cacheZoneId":"4e7ec3e5c884cfc2e515e0c8f37e68ef",//清理缓存用 cf区域 ID
+    "cacheToken":"WKPrxiWT-wCRTZVnwv7i7zAGG04QyhzpIbRx_gZ-",//清理缓存用 cf API token
 	
     "pageSize" : 5,//每页文章数
     "recentlySize" : 6,//最近文章数
